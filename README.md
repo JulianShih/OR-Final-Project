@@ -1,5 +1,8 @@
 # OR-Final-Project
-"The New Era On Ice"
+### Requirement
+```
+pip install pulp
+```
 ## Background and Motivation
 ### Why/How
 #### "The New Era On Ice"
